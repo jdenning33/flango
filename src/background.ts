@@ -1,7 +1,4 @@
-/* eslint-disable @typescript-eslint/no-unused-vars */
-/* eslint-disable @typescript-eslint/no-explicit-any */
 import OpenAI from "openai";
-import { json } from "stream/consumers";
 
 const OPENAI_API_KEY = "TEST"; // API key exposed in background.js
 
